@@ -1,5 +1,6 @@
-https://youtu.be/2MqSim1H0pU called for software
-
+<p align="center">
+  <a href="https://discord.gg/Kvx67Wz"><img src="https://img.shields.io/discord/584613841560666144.svg?color=blue&label=discord&logo=discord" alt="Join the chat"></a>
+</p>
 
 # Diagram
 <p align="center">
