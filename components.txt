@@ -1,0 +1,3 @@
+raspberry pi zero W: https://www.raspberrypi.org/products/raspberry-pi-zero-w/
+4 channel relay module: https://www.amazon.co.uk/dp/B07RP5DBX1?keywords=raspberry+pi+4+channel+relay+module
+optional screen: https://thepihut.com/collections/raspberry-pi-screens/products/adafruit-pioled-128x32-monochrome-oled-add-on-for-raspberry-pi-ada3527
