@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/ITZVGcGPmO/kris-harbour-turbine-v2">
-    <img src="https://raw.githubusercontent.com/ITZVGcGPmO/kris-harbour-turbine-v2/versiontwo/diagram.png" alt="diagram">
+    <img src="https://raw.githubusercontent.com/ITZVGcGPmO/kris-harbour-turbine/versiontwo/diagram.png" alt="diagram">
   </a>
 </p>
