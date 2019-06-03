@@ -8,8 +8,8 @@ You will need to edit a few settings and find a regex that will work with your w
 ## :eyeglasses: Diagram
 
 <p align="center">
-  <a href="https://github.com/ITZVGcGPmO/kris-harbour-turbine-v2">
-    <img src="https://raw.githubusercontent.com/ITZVGcGPmO/kris-harbour-turbine-v2/master/diagram.png" alt="diagram">
+  <a href="https://github.com/ITZVGcGPmO/kris-harbour-turbine">
+    <img src="https://raw.githubusercontent.com/ITZVGcGPmO/kris-harbour-turbine/master/diagram.png" alt="diagram">
   </a>
 </p>
 
